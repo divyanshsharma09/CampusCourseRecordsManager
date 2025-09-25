@@ -1,0 +1,32 @@
+# Compiled class files
+bin/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Backup files
+backup/
+backups/
+data/backup/
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
